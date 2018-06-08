@@ -1,0 +1,177 @@
+infinite computer solutions:
+=============================
+1)tell me about yourself?
+2)roles and resposibilites?
+3)where your work in project?
+4)oops concepts?explain?
+5)what are the methods in objects class?
+6)compile time polymorphism and run time polymorphism?
+7)diff between finalize and finally?
+8)diff between hashmap and hashtable?
+9)diff between overloading and overriding?
+10)what are loaders in java?
+11)what is custamaized sorting order?
+12)diff between doget and dopost?
+13)how many characters allowed get?
+14)what is url rewriting?
+15)what are jsp implicit objects?
+16)difference betwenn servlets and jsp?
+17)what is servlet?servlet life cycle methods?
+18)what is the difference between generic servlet and httpservlet?
+19)==&=== difference in javascript?
+20)load and get diff?
+21)get and persistence diff?
+22)how many caches in hibernate?
+23)how caches work in your project?
+24)hql Namedquery parameters which api hibernate?
+25)one to many relationship example?
+26)what is diff b/w servletconfig and servletcontext?
+27)how do you define init parametres in servlet?how do you get?
+28)what is the diff b/w jsp include and jsp action?
+29)what is the url rewriting in jsp?
+30)what is the method and api in url rewriting?
+31)how do you include one servlet into another servlet?
+32)what is dialect in hibernate?
+33)what is difference between session and sessionfactory?
+34)can you have multiple session factorys in application?
+35)what is the lazyloading in hibernate?
+36)what is association mapping in your project?
+37)how to generate parallelkey in hibernate?if you have table?
+38)what are projection and restrction in hibernate?
+39)what is the method to excute namedquery?
+40)when did you go for caches?
+41)what is the sql query to join two tables?
+
+
+HPE
+============
+1)Tell me about yourself
+2)tell me about current project?
+3)where u involved in your project?
+4)why u have to use spring mvc?
+5)mvc flow?
+6)in dispatcher servlet in spring mvc how configure?
+7)how to integrate spring and rest?
+8)Ioc?why?
+9)in user defined class how to convert json?
+10)in rest class how you implement json?
+11)spring and hibernate integration?
+12)scopes in spring mvc?
+13)what is request and prototype?
+14)how many configaration files in spring mvc?any no.of config files?
+15)i have one json websrvice that call from  html page that shouldnot  page any kind of post complete submission our server space instead of that i call java script how you can taht?
+16)rest based webservice spring controller that controller method we need to call js?how?
+17)what is use of hibernate?any option to interact with db?
+18)diff between jdbc and hibernate?
+19)which is best?why?performance?why?
+20)suppose on doing operation it wii do enter table1 and table2 and table3
+
+infinite:
+=========
+1)tell me about your project?
+2)singleton class with userdefined class?
+3)what use of hb config file?
+4)take hash map in 3 values only print value for enhnced loop?
+
+ibm:
+=====
+1)tell me about yourself?
+2)current project?
+3)junit testcases?
+4)where to write businesslogic?
+5)spring mvc flow?
+6)only mvc flow?what you want write?
+7)diff between servlets and jsp?
+8)how many scopes spring?
+9)which scopes are u used in your project?can you explain real time scenarios?
+10)spring ioc?what use of inversion?
+11)which code repository used?
+12)how o commit code?
+13)in  dependecy added in maven what is going on internally?
+14)what is serialization can you explain real time scenario?
+
+legato:
+=======
+1)tell me about urself
+2)immutable and mutable and why?
+3)string s="jala"
+  string s2=new String("jala");wt diffrence and how many objects created?
+4)comparable and comparator difference?
+5)any equalsmethod hashcode?
+6)why u are used equals in comparator why not used hashcode?why?
+7)cyclic dependency?
+8)can you write code hashset for employee objects based on salary?
+
+mobility:
+========
+1)tell me about yourself?
+2)tell me about current project?
+3)what is sdlc?
+4)what is role your project?
+5)what was oops concept follwed in java?
+6)what is difference between methodoverloading and method overriding?
+7)can you overload main method?
+8)static main method is possible?
+9)what abstarcat and interfaces?
+10)have you multithreading?
+11)how many create threads?
+12)what is synchronization?
+13)diff b/w wait and notify?
+14)for ex object is already locked now it is in waiting pool wt happens particluar lock?releasing lock or not?
+15)arraylist is hertogerous objects allowed or not?
+16)how to identify patricluar specific location what kind of objects stored in a patcular location?
+17)diff between arraylist and vector?
+18)how to synchronize arraylist?
+19)how to sort elements collection?
+20)choose detailed structure in cf trying to store integer values automatically sorted order?
+21)throw and throws?we can't thorw existed exception from checked exception i have thow is possible?
+22)in method declaration throwing exception x and body throwing y wt will happen?
+23)i have try,catch,finally is it possible try block without catch block?
+24)in try block i have return some value after  catch,finally,methods statement what block excuted after return try block?is caller of method or moved catch block?
+25)xml parsing techniques?
+26)statement,prepared stament,callablestatement?
+27)having worked what kind of functions and procedures?
+28)two tables table a and table both tables can joined aganist column id i would like to retrive all rows from table a and only matching rows from table b how to write query?
+
+Deloitte:
+==========
+1)how are u doing today?
+2)tell me something about experience java?
+3)what are roles and responsibilites in your team?
+4)what is aop?breifly explan?
+5)how do you implement aop?
+6)how does spring implements aop?
+7)what us others  features used springframework used in you project?
+8)why are u spring and why are u using restful?and what criteria used spring?and what criteria used restful?
+9)what topics come under corejava and what topics come under advanced java?
+10)what core java features used in your code?
+11)collection framework is part of core java?what kind of collections have u used?
+12)why did u go for hashmap?any other collection is there?
+13)why should use hashtable?correct scenario?
+14)how does improve application performance using hashmap?
+15)tell me other properties of hashmap having key-pair and dynamic values?
+16)if u have already key trying to put other key-pair on same key what will happen?
+17)if same key and different value again what will happen?get the key what value stored?
+18)what will happen my key-pairs values it will be stored or not?
+19) difference between hashset and hashmap?
+
+IBM:
+====
+1)Tell me about yourself?
+2)brefielsy explain project?
+3)can you override static and private methods?
+4)methodoverloading and methodoverriding?
+5)hashing algorithm in hashmap?
+6)sendredirect and forward in jsp diff?
+7)diff session and key?
+8)diff beanfactory and application context?
+9)what is dependecny injection?
+10)what is spring bean?
+11)mvc architecture?
+12)scopes of spring bean?
+13)diff injections in spring?
+
+ 
+
+
+

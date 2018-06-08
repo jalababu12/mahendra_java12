@@ -1,0 +1,23 @@
+jalababu employee Record:
+==========================
+Company:Marevol Techno Solutions Pvt Ltd
+Employee Id:MTSL144
+email:jalababu.r@Marevol.com
+Address:#1-62-151, 5th floor, Triguna mansion, Kavuri Hills Phase 2 Rd, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033
+Phone: 040 4852 4737
+
+Hr:kavya Rapuru
+mail:kavyarapuru@marevol.com
+Id:MTSL0106
+
+Project Manager:Srinivasulureddy
+mail:srinivasulareddy@marevol.com
+
+Total employees:18Members
+
+
+Tcs:
+Address:Vydehi RC-1 Block, No 82, EPIP Industrial Area, Whitefield, Bengaluru, Karnataka 560066
+
+ph:80672 57000
+
